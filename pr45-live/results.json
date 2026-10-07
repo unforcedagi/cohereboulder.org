@@ -1,0 +1,1441 @@
+{
+  "checks": [
+    {
+      "name": "signed-out-390-en home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-en home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-en /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-en events Register CTA in menu",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-es home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-es home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-es /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-390-es events Register CTA in menu",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-en home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-en home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-en /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-en events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-es home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-es home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-es /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-out-1280-es events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "anonymous registration returns 401",
+      "pass": true,
+      "detail": "401"
+    },
+    {
+      "name": "session absent at end",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "anonymous registration returns 401",
+      "pass": true,
+      "detail": "401"
+    },
+    {
+      "name": "existing Uni account",
+      "pass": true,
+      "detail": "{\"stage\":\"checkEmail\",\"returningUser\":true}"
+    },
+    {
+      "name": "Uni signed in",
+      "pass": true,
+      "detail": "claudeji.scenius.social"
+    },
+    {
+      "name": "fresh email sign-in lands /events",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "Uni registration false",
+      "pass": true,
+      "detail": "{\"status\":200,\"registered\":false}"
+    },
+    {
+      "name": "signed-in-390-en home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-en home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-en /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-en events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-en logo reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-en Home/Inicio reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es logo reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-390-es Home/Inicio reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en logo reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-en Home/Inicio reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es home stays /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es home Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es /events loads",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es events Register CTA",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es logo reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "signed-in-1280-es Home/Inicio reaches /",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "sign out",
+      "pass": true,
+      "detail": "200"
+    },
+    {
+      "name": "session absent at end",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "pageErrors": [],
+  "requestFailures": [
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "path": "/cdn-cgi/rum",
+      "error": "net::ERR_FAILED"
+    },
+    {
+      "path": "/Ecosystem.pdf",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "httpFailures": [],
+  "blockedWrites": [
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/cdn-cgi/rum"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/youtubei/v1/log_event"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    },
+    {
+      "method": "POST",
+      "path": "/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+    }
+  ],
+  "shots": [
+    "signed-out-390-en-home.png",
+    "signed-out-390-en-events.png",
+    "signed-out-390-en-events-menu.png",
+    "signed-out-390-es-home.png",
+    "signed-out-390-es-events.png",
+    "signed-out-390-es-events-menu.png",
+    "signed-out-1280-en-home.png",
+    "signed-out-1280-en-events.png",
+    "signed-out-1280-es-home.png",
+    "signed-out-1280-es-events.png",
+    "final-signed-out-home.png",
+    "sign-in-check-email.png",
+    "fresh-sign-in-events.png",
+    "signed-in-390-en-home.png",
+    "signed-in-390-en-events.png",
+    "signed-in-390-en-home-nav.png",
+    "signed-in-390-es-home.png",
+    "signed-in-390-es-events.png",
+    "signed-in-390-es-home-nav.png",
+    "signed-in-1280-en-home.png",
+    "signed-in-1280-en-events.png",
+    "signed-in-1280-en-home-nav.png",
+    "signed-in-1280-es-home.png",
+    "signed-in-1280-es-events.png",
+    "signed-in-1280-es-home-nav.png"
+  ],
+  "deployment": {
+    "run": 37668040884,
+    "commit": "efebed60c7c923ea1c4a6690ffd6b62189553268",
+    "conclusion": "success",
+    "before": "index-wORvRO8Z.js",
+    "after": "index-BpC3XDhG.js"
+  }
+}
